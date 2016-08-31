@@ -14,30 +14,34 @@ Delta Dental of Iowa
 * Led creation, design and execution of internal bimonthly newsletter and increased views
 * Designed the 2017 Benefit Summaries with updated offerings and brand guidelines
 
-##### Marketing and Promotions Specialist *Sept. 2014 - Dec. 2015*
+##### Marketing and Promotions Specialist *Aug. 2014 - present*
 Iowa Center for Public Affairs Journalism  
 
 * Developed social media campaigns and assembled schedules for the launching of such campaigns across numerous media outlets
 * Coordinated details for the planning and execution of annual events 
 * Participated in weekly meetings in order to expand knowledge of marketing concepts
 
+##### Marketing Coordinator and Server *May. 2014 - Sept. 2015*
+Willow Creek Golf Course  
 
-#### University of Iowa Hospitals and Clinics
-##### Food service supervisor *Jan. - May 2016*
-Very brief description here. No bullets.  
+* Managed social media and constructed marketing plans to generate media traffic
+* Exemplified high-quality service for customers on the course
+* Helped administer and plan events such as corporate golf outings with 100+ attendees
+
 
 
 ### College Activities
 #### Public Relations Student Society of America
-Brief explanation
+* Led recruitment efforts and drove social media activity with strategies and campaigns 
+* Produced Chapter News on the national website, wrote press releases and feature articles
 
-* President Jan. 2016 - present
-* Secretary Sept. 2015 - Jan. 2016
-* Member  Sept. 2014 - present
+* Public Relations Director May 2016 - present
+* Member  Aug. 2014 - present
 
 
-#### Iowa Raptor Project
-Something about birds.
+#### John Pappajohn Entrepreneurial Center Ambassador
+* Marketed and promoted JPEC events around Iowa City 
+* Assisted with weekly events and recruited new students to the program
 
 ### Skills
 #### Video production
