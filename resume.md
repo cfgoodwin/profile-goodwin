@@ -3,16 +3,16 @@ layout: resume
 title: Resume
 ---
 104 W. Washington St., Iowa City, IA 52242  
-[stella-student@uiowa.edu](mailto:stella-student@uiowa.edu) - (319) 335 - 3331
+[clare-goodwin@uiowa.edu](mailto:clare-goodwin@uiowa.edu) - (515) 494 - 8483
 
 ### Experience
 
-#### The Daily Iowan
-##### Copy Desk Chief *Jan. - May 2016*
-Brief description here.    
+#### Marketing Intern
+##### Delta Dental of Iowa *May 2016 - present*
 
-* list two or three
-* important achievements
+* Managed creative collateral concept, design, & execution between agencies and vendors
+* Led creation, design and execution of internal bimonthly newsletter and increased views
+* Designed the 2017 Benefit Summaries with updated offerings and brand guidelines
 
 ##### Copy Editor *Sept. 2014 - Dec. 2015*
 Brief description here.    
