@@ -7,19 +7,19 @@ title: Resume
 
 ### Experience
 
-#### Marketing Intern
-##### Delta Dental of Iowa *May 2016 - present*
+#### Marketing Intern *May 2016 - present*
+Delta Dental of Iowa 
 
 * Managed creative collateral concept, design, & execution between agencies and vendors
 * Led creation, design and execution of internal bimonthly newsletter and increased views
 * Designed the 2017 Benefit Summaries with updated offerings and brand guidelines
 
-##### Copy Editor *Sept. 2014 - Dec. 2015*
-Brief description here.    
+##### Marketing and Promotions Specialist *Sept. 2014 - Dec. 2015*
+Iowa Center for Public Affairs Journalism  
 
-* list two or three
-* important achievements
-* you want to emphasize
+* Developed social media campaigns and assembled schedules for the launching of such campaigns across numerous media outlets
+* Coordinated details for the planning and execution of annual events 
+* Participated in weekly meetings in order to expand knowledge of marketing concepts
 
 
 #### University of Iowa Hospitals and Clinics
@@ -28,7 +28,7 @@ Very brief description here. No bullets.
 
 
 ### College Activities
-#### Sigma Delta Chi
+#### Public Relations Student Society of America
 Brief explanation
 
 * President Jan. 2016 - present
