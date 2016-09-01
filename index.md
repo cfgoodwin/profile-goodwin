@@ -17,5 +17,5 @@ I have proven expertise in [multimedia storytelling](/), [journalistic reporting
 <br>
 <a href="http://facebook.com/clare.goodwin.35"><i class="fa fa-facebook-square" aria-hidden="true"></i>Facebook</a>
 <br>
-<a href="http://linkedin.com/in/clare-goodwin"><i class="fa fa-linkedin-square" aria-hidden="true"></i>LinkedIn</a>
+<a href="http://linkedin.com/in/clare-goodwin-05a570b7"><i class="fa fa-linkedin-square" aria-hidden="true"></i>LinkedIn</a>
 </p>
