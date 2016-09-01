@@ -7,7 +7,7 @@ title: Home
 
 I'm a member of the University of Iowa [School of Journalism and Mass Communication](http://clas.uiowa.edu/sjmc/) Class of 2017.
 
-I have proven expertise in [multimedia storytelling](/), [journalistic reporting and writing](/#) and [media law](/#). I am currently the sergeant-at-arms of the University of Iowa [Society for the Promotion of Associations](/#), and I really like green eggs and ham.
+I have expanded upon the skills I've acuqired from my studies through my most recent marketing internship at Delta Dental of Iowa. I also serve as the Public Relations Director for PRSSA's exec board and as an ambassador for JPEC at Iowa. 
 
 ### Social media
 
