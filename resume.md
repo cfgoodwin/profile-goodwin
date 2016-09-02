@@ -32,8 +32,8 @@ Willow Creek Golf Course
 
 ### College Activities
 #### Public Relations Student Society of America
-* Led recruitment efforts and drove social media activity with strategies and campaigns 
 * Produced Chapter News on the national website, wrote press releases and feature articles
+* Led recruitment efforts and drove social media activity with strategies and campaigns 
 
 * Public Relations Director May 2016 - present
 * Member  Aug. 2014 - present
