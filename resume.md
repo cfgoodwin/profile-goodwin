@@ -51,5 +51,5 @@ Willow Creek Golf Course
 
 
 ### Education
-#### University of Iowa
+University of Iowa
 Bachelor of Arts in Journalism and Mass Communication *anticipated May 2017* 
