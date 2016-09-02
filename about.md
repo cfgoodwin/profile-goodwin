@@ -4,7 +4,9 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Throughout my four years at Iowa, I have deeloped a storng understanding of journalism and PR, political science, and entreprenuership. I have also been given multiple opportunites to put these learned skills to the test through a number of diverse internships. Based on this, I feel confident and well prepared to enter into the workforce and find a company I am passionate about. 
+  
+  As a PR specialist or marketer, or wherever else my career takes me, I will dedicate my very best work to the company and team I am with while ensuring that I am carrying out our values in all my work. 
 </p>
 
 In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
