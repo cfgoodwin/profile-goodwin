@@ -2,8 +2,8 @@
 layout: resume
 title: Resume
 ---
-104 W. Washington St., Iowa City, IA 52242  
-[clare-goodwin@uiowa.edu](mailto:clare-goodwin@uiowa.edu) - (515) 494 - 8483
+335 S. Clinton St., Iowa City, IA 52240  
+[clare-goodwin@uiowa.edu](mailto:clare-goodwin@uiowa.edu) | (515) 494 - 8483
 
 ### Experience
 
@@ -47,13 +47,12 @@ Willow Creek Golf Course
 * Assisted with weekly events and recruited new students to the program
 
 ### Skills
-#### Video production
-* FinalCut X
-* Adobe Premiere
-* Experience with SLR and DVCAM shooting
+* Adobe Creative Suite
+* Final Cut Pro
+* Mailchimp
+* Webdesign
 
-#### Another skill
-* subskills/software
+
 
 ### Education
 #### University of Iowa
