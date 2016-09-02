@@ -13,7 +13,7 @@ I have expanded upon the skills I've acuqired from my studies through my most re
 
 <!-- go to http://fontawesome.io/icons/ to see more icons -->
 <p class="social-icons">
-<a href="http://twitter.com/stellarstudent"><i class="fa fa-twitter-square" aria-hidden="true"></i>Twitter</a>
+<a href="http://instagram.com/claregoood"><i class="fa fa-twitter-square" aria-hidden="true"></i>Twitter</a>
 <br>
 <a href="http://facebook.com/clare.goodwin.35"><i class="fa fa-facebook-square" aria-hidden="true"></i>Facebook</a>
 <br>
