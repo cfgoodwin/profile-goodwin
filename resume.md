@@ -31,16 +31,12 @@ Willow Creek Golf Course
 
 
 ### College Activities
+
 #### Public Relations Student Society of America
 * Produced Chapter News on the national website, wrote press releases and feature articles
 * Led recruitment efforts and drove social media activity with strategies and campaigns 
-
-* Public Relations Director May 2016 - present
-* Member  Aug. 2014 - present
-
-#### Public Relations Student Society of America
-* Marketed and promoted JPEC events around Iowa City 
-* Assisted with weekly events and recruited new students to the program
+* PR Director May 2016 - present
+* Member Aug. 2014 - present
 
 #### John Pappajohn Entrepreneurial Center Ambassador
 * Marketed and promoted JPEC events around Iowa City 
